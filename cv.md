@@ -24,6 +24,7 @@ Languages and technologies:
 - Stylus;
 - Task Runners (Grunt and Gulp);
 - Highcharts.js.
+- Template engines (Docpad, Patternlab, Mustache, Jade)
 
 **Average experience**: 
 
@@ -32,30 +33,31 @@ Languages and technologies:
 - Wordpress;
 - Node.JS.  
 
-##Education
+##Education 
+
+**2013 ~ current** - SmartWay English School - Advanced Level
 
 **2011 ~ 2015** - Gratuated in Internet Systems Technology at Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul.
 
 **2008 ~ 2011** - TopWay English School Complete.
 
-**2013 - current** - SmartWay English School - Advanced level
-
 ##Professional Experiences
+
+**05/2014 ~ current** - Conrad Caine GmbH  
+After the six months internship contract was over, I was hired as a formal employee of the company, in the meanwhile, I was integrated as a member of the Deutsche Bank team, the team responsible for the development of a series of websites of the Deutsche Asset & Wealth Management sector. Currently still integrated in the DB team as a Front-end Developer.
+
+**11/2013 ~ 04/2014** - Conrad Caine GmbH  
+Started to work at Conrad Caine as a trainee, working 30h a week while studying, worked in a couple of different projects mainly using HTML, CSS and Javascript.
 
 **03/2013 ~ 10/2013** - Quadro Soluções Web  
 Worked as web developer using Wordpress as main technology to create institutional websites. Mainly editing and creating wordpress themes.
-
-**11/2013 ~ current** - Conrad Caine GmbH  
-Started to work as a Trainee Front-end Developer and after the six months contract I was promoted to a Front-end Developer.
-I've worked for several projects mainly using client-side technologies.
-The most important ones were from a Deutsche Bank sector called Deutsche Asset & Wealth Management, where we develop a few websites, including CIO View, DeAWM website and ETF US.
 
 ##Personal Experiences
 
 **Mywallet**  
 Developed a financial control system, it was my theses graduation subject, the main technologies used were:
 
-- CakePHP
+- CakePHP 2x.
 - HTML5
 - CSS3
 - jQuery
