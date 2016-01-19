@@ -43,7 +43,7 @@ Languages and technologies:
 
 ##Professional Experiences
 
-**01/2015 ~ current** - Senior Sistemas
+**01/2015 ~ current** - Senior Sistemas 
 Working as a Front-end Developer with AngularJS in SPA projects.
 
 **05/2014 ~ 11/2015** - Conrad Caine GmbH  
