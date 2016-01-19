@@ -35,7 +35,7 @@ Languages and technologies:
 
 ##Education 
 
-**2013 ~ current** - SmartWay English School - Advanced Level
+**2013 ~ 2015** - SmartWay English School - Advanced Level
 
 **2011 ~ 2015** - Gratuated in Internet Systems Technology at Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul.
 
@@ -43,7 +43,10 @@ Languages and technologies:
 
 ##Professional Experiences
 
-**05/2014 ~ current** - Conrad Caine GmbH  
+**01/2015 ~ current** - Senior Sistemas
+Working as a Front-end Developer with AngularJS in SPA projects.
+
+**05/2014 ~ 11/2015** - Conrad Caine GmbH  
 After the six months internship contract was over, I was hired as a formal employee of the company, in the meanwhile, I was integrated as a member of the Deutsche Bank team, the team responsible for the development of a series of websites of the Deutsche Asset & Wealth Management sector. Currently still integrated in the DB team as a Front-end Developer.
 
 **11/2013 ~ 04/2014** - Conrad Caine GmbH  
