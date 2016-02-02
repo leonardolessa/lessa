@@ -43,11 +43,11 @@ Languages and technologies:
 
 ##Professional Experiences
 
-**01/2016 ~ current** - Senior Sistemas 
+**01/2016 ~ current** - Senior Sistemas  
 Working as a Front-end Developer with AngularJS in SPA projects.
 
-**05/2014 ~ 11/2015** - Conrad Caine GmbH  
-After the six months internship contract was over, I was hired as a formal employee of the company, in the meanwhile, I was integrated as a member of the Deutsche Bank team, the team responsible for the development of a series of websites of the Deutsche Asset & Wealth Management sector. Currently still integrated in the DB team as a Front-end Developer.
+**05/2014 ~ 12/2015** - Conrad Caine GmbH  
+After the six months internship contract was over, I was hired as a formal employee of the company, in the meanwhile, I was integrated as a member of the Deutsche Bank team, the team responsible for the development of a series of websites of the Deutsche Asset & Wealth Management sector.
 
 **11/2013 ~ 04/2014** - Conrad Caine GmbH  
 Started to work at Conrad Caine as a trainee, working 30h a week while studying, worked in a couple of different projects mainly using HTML, CSS and Javascript.
@@ -60,7 +60,7 @@ Worked as web developer using Wordpress as main technology to create institution
 **Mywallet**  
 Developed a financial control system, it was my theses graduation subject, the main technologies used were:
 
-- CakePHP 2x.
+- CakePHP 2.x
 - HTML5
 - CSS3
 - jQuery
