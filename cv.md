@@ -3,7 +3,7 @@
 ### Contact information
 
 **E-mail**: lrlessa@gmail.com  
-**Mobile Phone**:  555399450380  
+**Mobile Phone**:  554792650380  
 **Linkedin**: https://br.linkedin.com/in/leonardolessa  
 
 ## Goal
@@ -19,6 +19,7 @@ Languages and technologies:
 - CSS3; 
 - Javascript;
 - jQuery;
+- AngularJS;
 - Git;
 - SASS;
 - Stylus;
@@ -28,32 +29,33 @@ Languages and technologies:
 
 **Average experience**: 
 
-- AngularJS;
 - CakePHP;
 - Wordpress;
 - Node.JS.  
 
 ##Education 
 
-**2013 ~ 2015** - SmartWay English School - Advanced Level
+**2008 ~ 2011** - TopWay English School Complete.
 
 **2011 ~ 2015** - Gratuated in Internet Systems Technology at Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul.
 
-**2008 ~ 2011** - TopWay English School Complete.
+**2013 ~ 2015** - SmartWay English School - Advanced Level
+
 
 ##Professional Experiences
 
-**01/2016 ~ current** - Senior Sistemas  
-Working as a Front-end Developer with AngularJS in SPA projects.
-
-**05/2014 ~ 12/2015** - Conrad Caine GmbH  
-After the six months internship contract was over, I was hired as a formal employee of the company, in the meanwhile, I was integrated as a member of the Deutsche Bank team, the team responsible for the development of a series of websites of the Deutsche Asset & Wealth Management sector.
+**03/2013 ~ 10/2013** - Quadro Soluções Web  
+Worked as web developer using Wordpress as main technology to create institutional websites. Mainly editing and creating wordpress themes.
 
 **11/2013 ~ 04/2014** - Conrad Caine GmbH  
 Started to work at Conrad Caine as a trainee, working 30h a week while studying, worked in a couple of different projects mainly using HTML, CSS and Javascript.
 
-**03/2013 ~ 10/2013** - Quadro Soluções Web  
-Worked as web developer using Wordpress as main technology to create institutional websites. Mainly editing and creating wordpress themes.
+**05/2014 ~ 12/2015** - Conrad Caine GmbH  
+After the six months internship contract was over, I was hired as a formal employee of the company, in the meanwhile, I was integrated as a member of the Deutsche Bank team, the team responsible for the development of a series of websites of the Deutsche Asset & Wealth Management sector.
+
+**01/2016 ~ current** - Senior Sistemas  
+Working as a Front-end Developer with AngularJS in SPA projects.
+
 
 ##Personal Experiences
 
