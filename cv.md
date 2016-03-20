@@ -37,7 +37,7 @@ Languages and technologies:
 
 **2008 ~ 2011** - TopWay English School Complete.
 
-**2011 ~ 2015** - Gratuated in Internet Systems Technology at Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul.
+**2011 ~ 2015** - Graduated in Internet Systems Technology at Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul.
 
 **2013 ~ 2015** - SmartWay English School - Advanced Level
 
