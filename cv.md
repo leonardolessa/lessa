@@ -3,11 +3,11 @@
 ### Contact information
 
 **E-mail**: lrlessa@gmail.com  
-**Mobile Phone**:  554792650380  
+**Mobile Phone**:  555399450380  
 **Linkedin**: https://br.linkedin.com/in/leonardolessa  
 
 ## Goal
-Acquire experience working with complex web apps architectures, either on client-side and server-side, maintaining a clean and legible code and a high quality assurance to the customer's full satisfaction. I seek for an environment where I can be able to risk and consequently learn, where I can exchange ideas and be challenged by the projects.
+Acquire experience working with complex web apps architectures, either on client-side and server-side, maintaining a clean and legible code and a high quality assurance to the customer's full satisfaction. I seek an environment where I can be able to risk and consequently learn, where I can exchange ideas and be challenged by the projects, not only for my personal satisfaction, but to provide to the company and to the client the best product.
 
 ##Skills
 
@@ -24,14 +24,14 @@ Languages and technologies:
 - SASS;
 - Stylus;
 - Task Runners (Grunt and Gulp);
-- Highcharts.js.
+- Highcharts.js;
 - Template engines (Docpad, Patternlab, Mustache, Jade)
 
 **Average experience**: 
 
 - CakePHP;
 - Wordpress;
-- Node.JS.  
+- Node.JS
 
 ##Education 
 
@@ -48,13 +48,13 @@ Languages and technologies:
 Worked as web developer using Wordpress as main technology to create institutional websites. Mainly editing and creating wordpress themes.
 
 **11/2013 ~ 04/2014** - Conrad Caine GmbH  
-Started to work at Conrad Caine as a trainee, working 30h a week while studying, worked in a couple of different projects mainly using HTML, CSS and Javascript.
+Started to work at Conrad Caine as a trainee, working 30h a week while studying, worked in a couple of projects mainly using HTML, CSS and Javascript.
 
 **05/2014 ~ 12/2015** - Conrad Caine GmbH  
 After the six months internship contract was over, I was hired as a formal employee of the company, in the meanwhile, I was integrated as a member of the Deutsche Bank team, the team responsible for the development of a series of websites of the Deutsche Asset & Wealth Management sector.
 
 **01/2016 ~ current** - Senior Sistemas  
-Working as a Front-end Developer with AngularJS in SPA projects.
+Working as a Front-end Developer using AngularJS as main technology in SPA projects.
 
 
 ##Personal Experiences
