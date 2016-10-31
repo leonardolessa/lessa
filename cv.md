@@ -6,8 +6,10 @@
 **Mobile Phone**:  555399450380  
 **Linkedin**: https://br.linkedin.com/in/leonardolessa  
 
+I'm a curious and a fast learner programmer. I really like to write javascript, but I'm not stuck with it, despite working mainly with Front-end I really like to study and research about other tecnologies and areas that are not part of my daily basis. As a coworker, I really like to share and discuss about the architecture and the code written in the projects. My biggest motivation is to see the results of things that we put effort on, get to know that it's being useful to someone.
+
 ## Goal
-Acquire experience working with complex web apps architectures, either on client-side and server-side, maintaining a clean and legible code and a high quality assurance to the customer's full satisfaction. I seek an environment where I can be able to risk and consequently learn, where I can exchange ideas and be challenged by the projects, not only for my personal satisfaction, but to provide to the company and to the client the best product.
+Acquire experience working with complex web apps architectures, either on client-side and server-side, maintaining a clean and legible code and a high quality assurance to the customer's full satisfaction. I seek an environment where I can be able to risk and consequently learn, where I can exchange ideas and be challenged by the projects, not only for my personal satisfaction, but to provide to the company and the client the best product.
 
 ##Skills
 
