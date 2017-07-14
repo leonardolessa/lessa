@@ -54,7 +54,7 @@ Comecei a trabalhar na Conrad Caine como estagiário, trabalhando 30 horas seman
 **05/2014 ~ 12/2015** - Conrad Caine GmbH  
 Depois dos seis meses do contrato de estágio, fui admitido como funcionário formal da empresa, neste período fui oficialmente integrado como um membro do time de desenvolvimento do Deutsche Bank, éramos responsáveis pelo desenvolvimento e manutenção de uma série de websites do setor Deutsche Asset & Wealth Management.
 
-**01/2016 ~ current** - Senior Sistemas  
+**01/2016 ~ atualmente** - Senior Sistemas  
 Contratado na Senior Sistemas para trabalhar na evolução do ERP da empresa, do software para a web, trabalhando em vários projetos principalmente na área de finanças, mas dando suporte em outras áreas do produto.
 
 ## Experiência pessoal
