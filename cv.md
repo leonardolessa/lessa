@@ -9,9 +9,9 @@
 I'm a curious and a fast learner programmer. I really like to write javascript, but I'm not stuck with it, despite working mainly with Front-end I really like to study and research about other tecnologies and areas that are not part of my daily basis. As a coworker, I really like to share and discuss about the architecture and the code written in the projects. My biggest motivation is to see the results of things that we put effort on, get to know that it's being useful to someone.
 
 ## Goal
-Acquire experience working with complex web apps architectures, either on client-side and server-side, maintaining a clean and legible code and a high quality assurance to the customer's full satisfaction. I seek an environment where I can be able to risk and consequently learn, where I can exchange ideas and be challenged by the projects, not only for my personal satisfaction, but to provide to the company and the client the best product.
+Acquire experience working with complex web apps architectures, either on client-side and server-side, maintaining a clean and legible code and a high quality assurance to the customer's full satisfaction. I seek an environment where I can be able to risk and consequently learn, where I can exchange ideas and be challenged by the projects, not only for my personal satisfaction, but to provide to the company and the user the best product.
 
-##Skills
+## Skills
 
 Languages and technologies:
 
@@ -35,7 +35,7 @@ Languages and technologies:
 - Wordpress;
 - Node.JS
 
-##Education 
+## Education 
 
 **2008 ~ 2011** - TopWay English School Complete.
 
@@ -44,22 +44,22 @@ Languages and technologies:
 **2013 ~ 2015** - SmartWay English School - Advanced Level
 
 
-##Professional Experiences
+## Professional Experiences
 
 **03/2013 ~ 10/2013** - Quadro Soluções Web  
 Worked as web developer using Wordpress as main technology to create institutional websites. Mainly editing and creating wordpress themes.
 
 **11/2013 ~ 04/2014** - Conrad Caine GmbH  
-Started to work at Conrad Caine as a trainee, working 30h a week while studying, worked in a couple of projects mainly using HTML, CSS and Javascript.
+Started to work at Conrad Caine as a trainee, working 30h a week while studying, worked in a couple of projects to several companies like Siemens, Deutsche Bank and Europen Patent Office, mainly using HTML, CSS and Javascript.
 
 **05/2014 ~ 12/2015** - Conrad Caine GmbH  
 After the six months internship contract was over, I was hired as a formal employee of the company, in the meanwhile, I was integrated as a member of the Deutsche Bank team, the team responsible for the development of a series of websites of the Deutsche Asset & Wealth Management sector.
 
 **01/2016 ~ current** - Senior Sistemas  
-Working as a Front-end Developer using AngularJS as main technology in SPA projects.
+I was hired to be part of the evolution of the ERP product of the company from the software to the web, worked in many projects mainly in finance, but still supporting other areas.
 
 
-##Personal Experiences
+## Personal Experiences
 
 **Mywallet**  
 Developed a financial control system, it was my theses graduation subject, the main technologies used were:
