@@ -56,7 +56,7 @@ Started to work at Conrad Caine as a trainee, working 30h a week while studying,
 After the six months internship contract was over, I was hired as a formal employee of the company, in the meanwhile, I was integrated as a member of the Deutsche Bank team, the team responsible for the development of a series of websites of the Deutsche Asset & Wealth Management sector.
 
 **01/2016 ~ current** - Senior Sistemas  
-I was hired to be part of the evolution of the ERP product of the company from the software to the web, worked in many projects mainly in finance, but still supporting other areas.
+I was hired to be part of the evolution of the ERP product of the company from the software to the web, responsible for many projects mainly in finance, but still supporting other areas.
 
 
 ## Personal Experiences
