@@ -6,7 +6,7 @@
 **Telefone celular**:  555399450380  
 **Linkedin**: https://br.linkedin.com/in/leonardolessa  
 
-Sou um programador curioso e de rápida aprendizagem. Me sinto muito confortável em programar Javascript, mas não me prendo a ele, apesar de trabalhar principalmente com Front-end, eu tenho o costume de estudar a pesquisar sobre outras tecnologias e áreas que não fazem parte da minha rotina. Como colega de trabalho sempre busco compartilhar e discutir sobre a arquitetura e o código escrito nos projetos. Minha maior motivação é ver resultados nas soluções que colocamos esforço, saber que está sendo útil para alguém.
+Sou um programador curioso e de rápida aprendizagem. Me sinto muito confortável em programar Javascript, mas não me prendo a ele, apesar de trabalhar principalmente com Front-end, eu tenho o costume de estudar e pesquisar sobre outras tecnologias e áreas que não fazem parte da minha rotina. Como colega de trabalho sempre busco compartilhar e discutir sobre a arquitetura e o código escrito nos projetos. Minha maior motivação é ver resultados nas soluções que colocamos esforço, saber que está sendo útil para alguém.
 
 ## Objetivos
 Adquirir experiência trabalhando com arquiteturas complexas de projetos web, tanto no client-side quando no server-side, mantendo sempre um código limpo e legível, garantindo a satisfação dos interessados na solução. Procuro um ambiente onde eu tenha a possibilidade de arriscar e consequentemente aprender, onde exista uma troca de conhecimentos e ideias, que eu possa ser desafiado e assim evoluir, tanto pessolmente quanto em integração com a equipe, provendo para a empresa e o usuário a melhor solução.
@@ -23,9 +23,10 @@ Linguagens e tecnologias:
 - jQuery;
 - AngularJS;
 - Git;
-- SASS;
-- Stylus;
-- Task Runners (Grunt and Gulp);
+- Preprocessadores CSS (SASS, Stylus);
+- Build Tools / Task Runners (Webpack, Gulp, Grunt);
+- REST;
+- ES6;
 - Highcharts.js;
 - Template engines (Docpad, Patternlab, Mustache, Jade)
 
@@ -34,6 +35,8 @@ Linguagens e tecnologias:
 - CakePHP;
 - Wordpress;
 - Node.JS
+- Express
+- Mongodb
 
 ## Educação
 
